@@ -1,0 +1,7 @@
+
+# OSX
+.DS_Store
+
+# ignore json files (Facebook Messenger) and txt files (WhatsApp)
+data/*.json
+data/*.txt
